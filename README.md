@@ -1,16 +1,11 @@
 E ai
 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=marcosbilobram&show_icons=true&theme=blue-green"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosbilobram&layout=compact"/>
+</div>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosbilobram&show_icons=true&theme=blue-green)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosbilobram&layout=compact)]
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbilobram&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbilobram&repo=convoychat" />
-</a>
-
 
 
 Here are some ideas to get you started:
