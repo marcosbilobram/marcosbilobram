@@ -4,7 +4,7 @@
   <p>Oi meu nome é Marcos, tenho 18 anos e eu escrevo códigos para mudar a vida das pessoas. Ok eu atualmente tenho escrito mais
     códigos para fortalecer meus estudos<p>
   <img width="450px" src="https://github-readme-stats.vercel.app/api?username=marcosbilobram&show_icons=true&theme=blue-green"/>
-  <img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosbilobram&layout=compact"/>
+  <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosbilobram&layout=compact"/>
 </div>
 
   
