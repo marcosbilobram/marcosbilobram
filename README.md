@@ -2,7 +2,7 @@
 
 <h3>Atualmente curso Análise e Desenvolvimento de Sistemas na FIAP📚</h2>
 
-<p>Sigo focado no estudo da área de backend e mobile, com Java e Spring, e Kotlin, por aqui você irá encontrar alguns de meus
+<p>Sigo focado no estudo da área de backend com Java e Spring, por aqui você irá encontrar alguns de meus
 projetos pessoais e alguns projetos da faculdade 👨🏻‍💻</p>
 
 <div>
