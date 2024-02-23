@@ -1,6 +1,6 @@
 <h1>Olá! Me chamo Marcos🚀</h1>
 
-<h3>Atualmente curso Análise e Desenvolvimento de Sistemas na FIAP📚</h2>
+<h3>Sou um desenvolvedor backend formado em Análise e Desenvolvimento de Sistemas na FIAP📚</h2>
 
 <p>Sigo focado no estudo da área de backend com Java e Spring, por aqui você irá encontrar alguns de meus
 projetos pessoais e alguns projetos da faculdade 👨🏻‍💻</p>
